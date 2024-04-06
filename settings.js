@@ -23,7 +23,7 @@ global.APIs = {
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = '`🧞‍♂️ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺';
-global.owner = ['255113419479','254718382875'];
+global.owner = ['254113419479','254718382875'];
 global.premium = ['254113419479','254718382875'];
 global.packname = '`🧞‍♂️ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺ 𝚋𝚢';
 global.author = 'MANOS 𝙈𝘿';
@@ -46,7 +46,7 @@ global.mess = {
 };
 global.link = 'https://youtube.com/@gamingeyingyt8216?si=IHmBhi2R69ao6jcG'
 global.linkGroup = 'https://chat.whatsapp.com/JNAASTo0fMo3N4luk8arve'  
-global.logo = process.env.LOGO || "https://telegra.ph/file/bb92c9c4e66b6b6045feb.jpg",        
+global.logo = process.env.LOGO || "https://telegra.ph/file/40ec3b1c34fef16e50d21.jpg",        
 global.ANTI_BOT = process.env.ANTI_BOT || "false",        
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
