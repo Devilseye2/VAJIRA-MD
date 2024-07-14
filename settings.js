@@ -28,7 +28,7 @@ global.premium = ['254113419479','254718382875'];
 global.packname = '`🧞‍♂️ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺ 𝚋𝚢';
 global.author = 'MANOS 𝙈𝘿';
 global.caption = ' 🦊MANOS🦊 ＭＤ V3 🍫';
-global.sessionName = 'session';
+global.sessionName = 'VAJIRA-MD=uUUVnDTB#9ixrnj13sAaGTmoZejDwAVhXz-BIT4anZHOQKXWlpEg';
 global.prefa = ['!', '.'];
 global.sp = '✪';
 global.mess = {
